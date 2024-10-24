@@ -5,6 +5,6 @@ The game consist in a ball (the player) that has a number of coins to collect, w
 
 > Have fun :D!
 
-* Collaborator:
+* Collaborators:
   * [Victor Hugo Barbosa](https://github.com/victorhugobarbosa)
   * [Pedro Nunes](https://github.com/Bey0ndzin)
